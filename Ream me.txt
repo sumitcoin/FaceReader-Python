@@ -1,0 +1,13 @@
+Run these commands:
+
+pip install opencv-python
+python webcam_face_capture.py
+
+Controls:
+
+Press S to save detected faces.
+Press Q to exit.
+Face images are saved in face_data/.
+Capture details are recorded in face_data/faces.csv.
+
+Use it only with the person’s knowledge and consent.
