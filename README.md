@@ -270,4 +270,4 @@ sensitive systems, or other high-risk decisions.
 
 ## License
 
-Add the license selected for your project before public distribution.
+Give credit to sumit.co.in that's all <3 
