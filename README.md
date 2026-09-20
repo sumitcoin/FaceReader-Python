@@ -1,4 +1,4 @@
-# FaceRead — Face Registration and Verification System
+# FaceRead — Face Registration and Verification System Data
 
 FaceRead is a face-based registration and status-verification platform. A user
 registers through the web application, enrolls their face, and can later be
